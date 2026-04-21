@@ -1,4 +1,4 @@
-# Real-Time Autonomous Racing With MPC (Portfolio)
+# Real-Time Autonomous Racing With MPC 
 
 This project is our end-to-end F1TENTH racing system that runs a kinematic Model Predictive Controller (MPC) in real time on ROS 2 hardware/software, with a LiDAR-based safety fallback when collision risk spikes.
 
